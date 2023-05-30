@@ -1,0 +1,3489 @@
+fileFormatVersion: 2
+guid: 55d9fb8045a9a424aa15cf4c2fc1ff08
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LW3_Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 985
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aa3ee9da249d240a8c73312268f393
+      internalID: 1476066322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1011
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f415a4f1d46edfd4996b8825b87e39c8
+      internalID: -1965239512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 989
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d0cc35a01798847ab58e72a59d90e8
+      internalID: -1363130054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1016
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3ea2eab4f34a4388dac706bac0917
+      internalID: -818856930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 991
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0335dad02d6e6bb409f57cd7b0657519
+      internalID: -674198871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 978
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e8ea089900d8a44805f0daa4212533
+      internalID: -1711578017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 980
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff52722f9df28343a92f455e0aec231
+      internalID: -1272780476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 982
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae9d288087b4f4aa717d37bec123aa
+      internalID: 1731722393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 982
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f407eca9b6f4d4d8c0cd54b3c559bc
+      internalID: 1911175462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 973
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e56a637e7a5b743adb9bfd8fb234c6
+      internalID: 784493160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 986
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b4a6bc294e3634d946f2f8296dd7ef
+      internalID: -1438090602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 990
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320eb781197e2c541b95c17b1aa4f10d
+      internalID: 997688194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 940
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e2d35c6c9346d47bd70bacb20bf5ef
+      internalID: 1925349809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 946
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79965277c72efdc43903be0003663d98
+      internalID: 1812011816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 948
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d225136f88400e94ba13cfdb56ae41e5
+      internalID: -1590005173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 949
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39c13520bb6215489e9f0ac09ed00b8
+      internalID: 36247481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 945
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383c4e07749d334489655e1425b2e651
+      internalID: 837984330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 945
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4642a51b0b9e62843be4d417e7d83272
+      internalID: -1124364987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 949
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe232929d2cf24092ae0f045371a11
+      internalID: 1325099472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 918
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eee04f85802704883070574450a723
+      internalID: -622292200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 912
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbc65bf4aa65764ba5929d938e8d643
+      internalID: -203161053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 916
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614e051f94c3500459fcda8fdd1b6503
+      internalID: -1706070085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 918
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bc580f08394e848b6c55fb975c8301
+      internalID: -472140105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 908
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb73f7e40d850048a3a269b6e0c7e94
+      internalID: 1085432450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 933
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239af1675af4b4743a799427c1b9ebfa
+      internalID: -1517573540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 912
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af666b85656c0504396e9e197a07380e
+      internalID: 991820924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 896
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3739a4ca27f464f8cd3be491f759e9
+      internalID: 1366199740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 919
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c7d93b7539cd04d97d71175bd49ab6
+      internalID: 1244000403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 872
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c7c48c34d897442a14f84f88e66cc6
+      internalID: -1300354944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 876
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9ba947f75678b4893bd2c0ff43c6b1
+      internalID: -51873733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 878
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c524dbf3b04549347afa85c299502735
+      internalID: -932135371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 906
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab25d992b3bcf438f25698ba6eccea
+      internalID: 947554950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 872
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5e3d5f4fa893d4e98c9c6c8e9b7e2e
+      internalID: 1015245967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 873
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877d4e7995a647646865b0d259928bd6
+      internalID: 1110563034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 872
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e60606ac429d042be83e5299a7e742
+      internalID: 1703545825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 824
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27d7c752b79a74a8d0d0997a9bdcff
+      internalID: -1579901462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 836
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85c11e2219416c48a722869a54af412
+      internalID: -544315727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 838
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30b0bf423eab44ea71b7b8199f894b
+      internalID: 1727024677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 830
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf9d740de8672429e3b837d48a91ae
+      internalID: 1385506199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 868
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3400f968cdb3a6242b23ffa3528d2678
+      internalID: 1371584204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 830
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ea5687949a5274db7d14ae58401469
+      internalID: -1909145474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 852
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eac23c000975e41a33b9fff74aad64
+      internalID: 742283708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 834
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b449278ec0f74e4fb1570aa0b614b03
+      internalID: -33540256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 836
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4942dcf94b03861459e7af8f7f3144a9
+      internalID: -163077162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 790
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71e2c89cdc66d24e903aa918cc87c45
+      internalID: -190500335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 792
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cac83dbd32f8f47a31da6d8624860e
+      internalID: 539121887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 830
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a999dc073ea95d74ebc0f2b8b3527dc5
+      internalID: -583153956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 816
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82740bd7eb56c54ab995f0ebda64c8c
+      internalID: 720373124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 798
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0b314958516284aa5d422e6f081ead
+      internalID: -856654398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 800
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1924b4d9207f35c49b55eb4ae9b58787
+      internalID: 1897010428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 778
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aad1f9b8cb81241b1b597883bbd7fa
+      internalID: -818300794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 796
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afd7b8fee44380498dbcfb7dbb03fc6
+      internalID: -1668306302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 801
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a319a10415b3b1242875b09617839969
+      internalID: 1079381360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 793
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65e0679703d0a244b755483ea432965
+      internalID: -2085578572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 769
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae346678317fced4a9428664852b1e7b
+      internalID: 1604871459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 742
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd4f610246ae1744928d028f2811bc0
+      internalID: -332922135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 752
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afbe792a791aae43909b30c25f708f5
+      internalID: -439206433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 752
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a23fb1603555647a28f592ccdf8b35
+      internalID: 1648379614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 749
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90738fca8d0e9a4b9a411001a6e7c1a
+      internalID: -1370599555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 750
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc8945dbd689f45956cdec051321d3
+      internalID: -1406918675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 755
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b116dc08533c0d846a509e39e64cfc99
+      internalID: 505563930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 739
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56caacc564dade64d8c6aefa9b9e6278
+      internalID: 1908502663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 762
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae77273afa72a5947bdd390cd5c67f13
+      internalID: -235452389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 764
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee70ab5d6333643b8d5464aed532f3
+      internalID: -1752371937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 710
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a9f446ca9d05498057b78aab936d6
+      internalID: 355432798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 720
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bb8ccd5663b65439105fe16dfefb39
+      internalID: -855138670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 720
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119547317d958914f844ef4d1524b87a
+      internalID: -2008532744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 717
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1c3d0b7363ec4ca32537bf9b29cd5
+      internalID: 1139028947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 720
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d08cb3585223cd489b0a00363846b70
+      internalID: 462381724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 717
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5503c223b52ae746868b5287c11333b
+      internalID: 251067094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 692
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5f696291a742445a42a8787950ef6b
+      internalID: -1495823379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 715
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c120fb6dc101e148bdd759fcc19f665
+      internalID: 1143625708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 734
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255a334101766404cb5ec8bcc3d94f72
+      internalID: -588511030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 709
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a8f53535da1404ead67ce0faf2b103
+      internalID: -1599315381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 674
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48037100f834c43b164db1e2a8852f
+      internalID: 1133704525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 677
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b67fff197af598469c8adc71c0c81bf
+      internalID: 696812194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 684
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67820e4c1bfe53a40b603c1c39fd9817
+      internalID: -935758972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 681
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdf2701b42752b4285738d21bee84b1
+      internalID: -1601278877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 688
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c631771c155665041b0c9029a18c09b4
+      internalID: 608134658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 664
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985bbcb28124c7548ae2280a1d821a98
+      internalID: 948269948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 668
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd5f8feeba710843938d94cefe91544
+      internalID: 1854282070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 687
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e85c72ad988074e94d6dd546f9619b
+      internalID: 1268757528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 660
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed79afb3a6efa1458e4643355eae413
+      internalID: 1415205423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 642
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4937d0aacfc0a46863e3820d75e942
+      internalID: -1378419426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 645
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c1393dfc8f53642b413bd1eaa9f616
+      internalID: 1800794105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 648
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce09e838cba4ef41b2ff4ef5537d45e
+      internalID: 1784001587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 645
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d93a63c1f6cd6b4d97df85d77e5d828
+      internalID: -1701944448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 656
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c13cc15afe44284bb814c82a9591be8
+      internalID: -1025446078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 632
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdfd46c2d2b9804f87d156ff59ba237
+      internalID: 1549926808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 646
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c8b5f47118a144d9fa6d62acc9530b
+      internalID: -1983660392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 623
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7099a51662d374bb7cb5c04ae883fe
+      internalID: 872328318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 655
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3f3293cd7351145b3253619078d99d
+      internalID: 610138440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 608
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc579755bf05eb49a41efa1dbdd5697
+      internalID: 1529723875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 611
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506db76e304890f42869dfb6284a4c00
+      internalID: 867856378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 614
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1f76a5009189b4da7942e7b27cfb9b
+      internalID: -1056095712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 611
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b00be0104360e744bb1e425a90a81d7
+      internalID: 307979603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 622
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92a1222c375ea34e8bee7ac1095f760
+      internalID: 1477100936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 606
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a558491acd059c4f966f5c9cd1931b0
+      internalID: -1344532736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 613
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa06cd42bb4c8894d9edf2a006c9c08c
+      internalID: 1099334424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 612
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa6930dc6441f947a4beb51eeda0be9
+      internalID: -1251074055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 613
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ace4fa4b14174288cca68a80f1e0c
+      internalID: -2122146709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 580
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cc086c623eaeb499cb7a133d4e5691
+      internalID: 332262689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 579
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f9e5508d89c1747a4125f6331c79fe
+      internalID: -690545665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 582
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ac46e20a6cfd40ade458de1cf0772
+      internalID: 1002912362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 585
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ae50cc378589044b9bedf2c9935033
+      internalID: -1209888900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 596
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4d8c7bb9e24d54f8d6acd9c060f2bf
+      internalID: 726423309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 570
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f1fe4fe5aa14c46a201c477ea5d79e
+      internalID: 819886240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 587
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c3b9db57f38249aa4a565bd402487
+      internalID: 1542621719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 585
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1a1d17f633da046abe1bd5364d15df
+      internalID: -702588956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 576
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f132a3bb580284f919434660b318a4
+      internalID: -1643399842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 577
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9434437bc296cd4290f7d5e8f44f5cc
+      internalID: -1374877632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 552
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1844a1aa9ed3f344d8db687f32444754
+      internalID: -929588762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 547
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ee855a563e994b916643ef28d19c0
+      internalID: 1204340245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 550
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6f37f55bbce04418f1f23d09feb33f
+      internalID: -1000317157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 553
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5de0dba1b4d0345a155f2d8e6c1fcf
+      internalID: 1600554499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 564
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db516e4722f32b4c9ac40dfe28c9883
+      internalID: 935105567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 538
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d485b708c248a541a683d08a243b703
+      internalID: 1078675119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 561
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123eb4f0061c9bf44999ddb5724cd3f7
+      internalID: 1267576702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 553
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ae5c7fe9ecd2c408b7475a935a2747
+      internalID: 1511549918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 558
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7851a7230f46b409a974c06200006f
+      internalID: 550924284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 554
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b0d93491fab83448b8df5cb44ecea7
+      internalID: 774429764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 543
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5692f042a239b524c8db614d1201bb67
+      internalID: 960483462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 526
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59460712eab7f6f48a453671d7d9836d
+      internalID: 1730617634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 512
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b418cf3f487e4dbad7df1cec9b738
+      internalID: 2105395324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 516
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eab1606b3fa534dabcb6c43f70ba20
+      internalID: -1380861713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 515
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36460398055ca0340a6987a4a04714ad
+      internalID: -676227643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 532
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12de387d1ddeb54caa0181c0b43a525
+      internalID: -953473197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 502
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b8e62704061cb449bc7f521793697e
+      internalID: -476431135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 525
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7f85e45a9b70f49892523beaad58de
+      internalID: -1490175192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 520
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3492a4d52f8ae4f41b906540574c10ff
+      internalID: -1335755051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 518
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb4fdd9fa255414e97ab8cdf973e7ff
+      internalID: 576284136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 520
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa2ad455011bdd46a1c4ba8ecc4e3f6
+      internalID: -1687475927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 511
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafd760c3977aa4468cbbbd51b564e58
+      internalID: -1233740016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 492
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e16651138d3c40972d4362d362146
+      internalID: -1652675776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 482
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9407cd4eeae0fc4da98e861aaba2bec
+      internalID: -828686841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 482
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bfe0a50e2adb048981e2e58a30caed
+      internalID: -1096972094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 479
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02f80fe4ad576e4ca30b5b0a69a792e
+      internalID: -1897809266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 496
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e3621b53213034d86bc71b50ed019d
+      internalID: -548324268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 470
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0cccec3b4d45c4ab7d61697e851007
+      internalID: -718683912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 493
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1353519694cd05e4e882c6f5dae4e37f
+      internalID: -1077718001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 488
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b8fc97fb9b6884699918cc39d669da
+      internalID: -1911477801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 488
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07120e25de60aef43921971e18fa461e
+      internalID: 1045525027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 486
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5855e140932442b4132e9c730d3c9
+      internalID: 1434700957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 490
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a28eb82c8cce04096c21cd2ce8211a
+      internalID: 1446601363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 479
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d2d1e31357f184c904cce51ce9f644
+      internalID: -1564276274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 458
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4e40afd4604143bb68feda3583480
+      internalID: -1947146701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 448
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef34b755c87df7549bfb45ab562bc39d
+      internalID: -1013431814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 445
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394f0a150d4865b439d6d17ea872b493
+      internalID: 445250114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 447
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df03205d64c8664ba4aee1fbb4e9642
+      internalID: -1557108535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 464
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b84a4064db2bd4eaffd33d7a866ce1
+      internalID: -166922839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 423
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d763ef601b3997344920ab2d57f20af4
+      internalID: -1975859367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 412
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa75176167abb8c4f9067b914abd68fb
+      internalID: 1008455186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df1181d80cde2b46891fe72f1616f27
+      internalID: 952851196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LW3_Enemies_104: -1209888900
+      LW3_Enemies_87: -1025446078
+      LW3_Enemies_88: 1549926808
+      LW3_Enemies_103: 1002912362
+      LW3_Enemies_107: 1542621719
+      LW3_Enemies_27: 1244000403
+      LW3_Enemies_53: -2085578572
+      LW3_Enemies_136: -1897809266
+      LW3_Enemies_71: 1143625708
+      LW3_Enemies_141: 1045525027
+      LW3_Enemies_46: -583153956
+      LW3_Enemies_3: -818856930
+      LW3_Enemies_14: -1590005173
+      LW3_Enemies_79: 948269948
+      LW3_Enemies_92: 1529723875
+      LW3_Enemies_35: -1579901462
+      LW3_Enemies_109: -1643399842
+      LW3_Enemies_94: -1056095712
+      LW3_Enemies_56: -439206433
+      LW3_Enemies_52: 1079381360
+      LW3_Enemies_122: 1730617634
+      LW3_Enemies_17: -1124364987
+      LW3_Enemies_66: -2008532744
+      LW3_Enemies_30: -932135371
+      LW3_Enemies_8: 1911175462
+      LW3_Enemies_60: 505563930
+      LW3_Enemies_90: 872328318
+      LW3_Enemies_38: 1385506199
+      LW3_Enemies_113: -1000317157
+      LW3_Enemies_117: 1267576702
+      LW3_Enemies_59: -1406918675
+      LW3_Enemies_102: -690545665
+      LW3_Enemies_83: -1378419426
+      LW3_Enemies_126: -953473197
+      LW3_Enemies_142: 1434700957
+      LW3_Enemies_48: -856654398
+      LW3_Enemies_96: 1477100936
+      LW3_Enemies_9: 784493160
+      LW3_Enemies_7: 1731722393
+      LW3_Enemies_140: -1911477801
+      LW3_Enemies_25: 991820924
+      LW3_Enemies_43: -163077162
+      LW3_Enemies_29: -51873733
+      LW3_Enemies_100: -2122146709
+      LW3_Enemies_132: -1233740016
+      LW3_Enemies_135: -1096972094
+      LW3_Enemies_125: -676227643
+      LW3_Enemies_151: 1008455186
+      LW3_Enemies_22: -472140105
+      LW3_Enemies_89: -1983660392
+      LW3_Enemies_134: -828686841
+      LW3_Enemies_129: -1335755051
+      LW3_Enemies_76: -935758972
+      LW3_Enemies_133: -1652675776
+      LW3_Enemies_5: -1711578017
+      LW3_Enemies_148: -1557108535
+      LW3_Enemies_39: 1371584204
+      LW3_Enemies_62: -235452389
+      LW3_Enemies_93: 867856378
+      LW3_Enemies_19: -622292200
+      LW3_Enemies_119: 550924284
+      LW3_Enemies_121: 960483462
+      LW3_Enemies_110: -1374877632
+      LW3_Enemies_143: 1446601363
+      LW3_Enemies_75: 696812194
+      LW3_Enemies_138: -718683912
+      LW3_Enemies_4: -674198871
+      LW3_Enemies_41: 742283708
+      LW3_Enemies_82: 1415205423
+      LW3_Enemies_58: -1370599555
+      LW3_Enemies_67: 1139028947
+      LW3_Enemies_97: -1344532736
+      LW3_Enemies_23: 1085432450
+      LW3_Enemies_78: 608134658
+      LW3_Enemies_36: -544315727
+      LW3_Enemies_1: -1965239512
+      LW3_Enemies_152: 952851196
+      LW3_Enemies_13: 1812011816
+      LW3_Enemies_85: 1784001587
+      LW3_Enemies_127: -476431135
+      LW3_Enemies_28: -1300354944
+      LW3_Enemies_73: -1599315381
+      LW3_Enemies_123: 2105395324
+      LW3_Enemies_111: -929588762
+      LW3_Enemies_18: 1325099472
+      LW3_Enemies_105: 726423309
+      LW3_Enemies_72: -588511030
+      LW3_Enemies_45: 539121887
+      LW3_Enemies_130: 576284136
+      LW3_Enemies_144: -1564276274
+      LW3_Enemies_51: -1668306302
+      LW3_Enemies_34: 1703545825
+      LW3_Enemies_2: -1363130054
+      LW3_Enemies_69: 251067094
+      LW3_Enemies_149: -166922839
+      LW3_Enemies_70: -1495823379
+      LW3_Enemies_112: 1204340245
+      LW3_Enemies_33: 1110563034
+      LW3_Enemies_54: 1604871459
+      LW3_Enemies_146: -1013431814
+      LW3_Enemies_95: 307979603
+      LW3_Enemies_24: -1517573540
+      LW3_Enemies_77: -1601278877
+      LW3_Enemies_64: 355432798
+      LW3_Enemies_128: -1490175192
+      LW3_Enemies_49: 1897010428
+      LW3_Enemies_12: 1925349809
+      LW3_Enemies_147: 445250114
+      LW3_Enemies_47: 720373124
+      LW3_Enemies_11: 997688194
+      LW3_Enemies_21: -1706070085
+      LW3_Enemies_98: 1099334424
+      LW3_Enemies_108: -702588956
+      LW3_Enemies_124: -1380861713
+      LW3_Enemies_32: 1015245967
+      LW3_Enemies_40: -1909145474
+      LW3_Enemies_131: -1687475927
+      LW3_Enemies_16: 837984330
+      LW3_Enemies_74: 1133704525
+      LW3_Enemies_42: -33540256
+      LW3_Enemies_50: -818300794
+      LW3_Enemies_61: 1908502663
+      LW3_Enemies_63: -1752371937
+      LW3_Enemies_57: 1648379614
+      LW3_Enemies_120: 774429764
+      LW3_Enemies_84: 1800794105
+      LW3_Enemies_99: -1251074055
+      LW3_Enemies_91: 610138440
+      LW3_Enemies_150: -1975859367
+      LW3_Enemies_145: -1947146701
+      LW3_Enemies_10: -1438090602
+      LW3_Enemies_31: 947554950
+      LW3_Enemies_80: 1854282070
+      LW3_Enemies_65: -855138670
+      LW3_Enemies_15: 36247481
+      LW3_Enemies_118: 1511549918
+      LW3_Enemies_26: 1366199740
+      LW3_Enemies_37: 1727024677
+      LW3_Enemies_137: -548324268
+      LW3_Enemies_44: -190500335
+      LW3_Enemies_81: 1268757528
+      LW3_Enemies_139: -1077718001
+      LW3_Enemies_0: 1476066322
+      LW3_Enemies_86: -1701944448
+      LW3_Enemies_101: 332262689
+      LW3_Enemies_6: -1272780476
+      LW3_Enemies_20: -203161053
+      LW3_Enemies_55: -332922135
+      LW3_Enemies_106: 819886240
+      LW3_Enemies_116: 1078675119
+      LW3_Enemies_68: 462381724
+      LW3_Enemies_114: 1600554499
+      LW3_Enemies_115: 935105567
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
